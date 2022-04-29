@@ -22,3 +22,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+exercicios/demo/.vscode/settings.json
+exercicios/demo/pom.xml
+exercicios/demo/src/test/java/uri1023/drought/AppTest.java
