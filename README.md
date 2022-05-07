@@ -1,2 +1,2 @@
 # ProjetosURI
- Projetos de exercicios do URI
+ Projetos de **exercicios** do *URI*
